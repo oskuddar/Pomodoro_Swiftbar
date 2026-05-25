@@ -1,6 +1,6 @@
 # Pomodoro for SwiftBar (macOS)
 
-Project [page](https://oskuddar.github.io/blog/2026/pomodoro/)
+[Project page](https://oskuddar.github.io/blog/2026/pomodoro/)
 
 A lightweight Pomodoro timer that runs directly in the macOS menu bar using SwiftBar.
 
