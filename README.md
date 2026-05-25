@@ -1,5 +1,7 @@
 # Pomodoro for SwiftBar (macOS)
 
+Project page <[click] (https://oskuddar.github.io/blog/2026/pomodoro/)>
+
 A lightweight Pomodoro timer that runs directly in the macOS menu bar using SwiftBar.
 
 Supports adjustable focus and break durations, automatic session switching, notifications, and persistent timer state.
@@ -36,7 +38,7 @@ brew install swiftbar
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pomodoro-swiftbar.git
+git clone https://github.com/oskuddar/Pomodoro_Swiftbar.git
 ```
 
 Create the SwiftBar plugins folder:
